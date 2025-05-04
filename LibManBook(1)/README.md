@@ -4,4 +4,5 @@ UPDATE PROGRESS
 
 - lib
 - assets
-- dependencies firebase
+- splash
+- firebase
