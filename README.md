@@ -1,20 +1,16 @@
-# perpusApp
-bckup update mobile app of management book in library
+# book_management
 
-PROGRESS PROJECT
-MOBILE PROGRAMMING KELOMPOK 1
+A new Flutter project.
 
-1. AHMAD NUR FUADY | 5323600005
-2. RAKHA ZAHRAN ANDRIAN | 5323600014
-3. HANAN HAFIZHAH ZARKASI | 5323600015
-4. MUHAMAD BAYU ISKANDAR | 5323600025
-5. ANNISA FARAH ANGELIN | 5323600027
- 
-PROGRAM STUDI SARJANA TERAPAN
-TEKNOLOGI REKAYASA MULTIMEDIA
+## Getting Started
 
-JURUSAN TEKNOLOGI MULTIMEDIA KREATIF
+This project is a starting point for a Flutter application.
 
-POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
+A few resources to get you started if this is your first Flutter project:
 
-- 2025
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
